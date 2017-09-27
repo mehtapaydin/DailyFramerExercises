@@ -8,4 +8,4 @@ I tried to prototype and app flow including scroll component in different pages 
 
 ## Sources
 
-* [How to make multiscreen apps in framer] (https://medium.com/@akashsoti/how-to-make-a-multi-screen-prototype-in-framer-js-3b769e002019)
+* [How to make multiscreen apps in framer](https://medium.com/@akashsoti/how-to-make-a-multi-screen-prototype-in-framer-js-3b769e002019)
