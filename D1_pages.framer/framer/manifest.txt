@@ -1,0 +1,46 @@
+app.coffee
+framer/backups/backup-2017-07-03 14.57.14.coffee
+framer/backups/backup-2017-07-03 14.57.14.vekter
+framer/backups/backup-2017-07-03 14.58.14.coffee
+framer/backups/backup-2017-07-03 14.59.14.coffee
+framer/backups/backup-2017-07-03 15.00.15.coffee
+framer/backups/backup-2017-07-03 15.01.14.coffee
+framer/backups/backup-2017-07-03 15.02.14.coffee
+framer/backups/backup-2017-07-03 15.07.14.coffee
+framer/backups/backup-2017-07-03 15.08.15.coffee
+framer/backups/backup-2017-07-03 15.09.14.coffee
+framer/backups/backup-2017-07-03 16.14.14.coffee
+framer/backups/backup-2017-07-03 16.15.14.coffee
+framer/backups/backup-2017-07-03 16.29.19.coffee
+framer/backups/backup-2017-07-03 16.29.19.vekter
+framer/coffee-script.js
+framer/config.json
+framer/design.vekter
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/framer.vekter.js
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/manifest.txt
+framer/preview.png
+framer/style.css
+framer/version
+FramerTest1.sketch
+imported/170606_desktop_stickersheet@1x/images/Layer-image1-qtzgmdyw.png
+imported/170606_desktop_stickersheet@1x/images/Layer-image3-ruqxruey.png
+imported/170606_desktop_stickersheet@1x/images/Layer-image3_copy-ndizqkiz.png
+imported/170606_desktop_stickersheet@1x/images/Layer-mylist-qtddmda2.png
+imported/170606_desktop_stickersheet@1x/layers.json
+imported/170606_desktop_stickersheet@1x/layers.json.js
+index.html
+modules/myModule.coffee
